@@ -38,3 +38,5 @@ Capitalism is rife with internal contradicitons, and as capitalism progresses in
 
 <span style="text-decoration:underline;">
 <h2>AI: Post-scarcity Technology</h2>
+
+AI itself, even in its current and limited implementation demonstrates a series of already evident internal and fatally paradoxical contradictions. AI demonstrates unique properties not before encountered in the mileu of human endeavors or technological advancements.
