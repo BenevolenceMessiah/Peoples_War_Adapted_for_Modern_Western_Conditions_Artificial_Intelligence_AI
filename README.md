@@ -15,7 +15,7 @@ It is necessary for these reasons and in keeping with the ideology to utilize th
 3. Paste:
 
 
-	   git clone https://github.com/BenevolenceMessiah/Discourse_on_the_Emergence_of_Oligopical_Fascism.git
+	   git clone https://github.com/BenevolenceMessiah/Peoples_War_Adapted_for_Modern_Western_Conditions_Artificial_Intelligence_AI.git
 in the Git Bash console.
 
 <h4>Updating:</h4>
